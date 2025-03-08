@@ -49,12 +49,24 @@ Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida
 Dept. of Computer Science and Engineering\
 Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
 
-* **Part-time Lecturer. [Dec. 2020- July 2022]**\
+* **Part-time Lecturer. [May. 2019- Aug 2019]**\
 Dept. of Computer Science and Engineering\
 University of Development Alternative (UODA), Dhaka, Bangladesh
 
 * **Research Assistant (JU-DM, Jahangirnagar University). [Aug. 2018- Nov. 2020]**\
 Projects: Topic-oriented active online local community search (supported by UGC, Bangladesh), Election prediction from social media data
+
+Selected Publications
+======
+
+* **Das, Badhan Chandra**, M. Hadi Amini, and Yanzhao Wu. "_Security and privacy challenges of large language models: A survey_." ACM Computing Surveys 57, no. 6 (2025): 1-39.
+* **Das, Badhan Chandra**, M. Hadi Amini, and Yanzhao Wu. "_In-depth Analysis of Privacy Threats in Federated Learning for Medical Data_." arXiv preprint arXiv:2409.18907 (2024).
+* **Das, Badhan Chandra**, M. Hadi Amini, and Yanzhao Wu. "_Privacy risks analysis and mitigation in federated learning for medical images_." In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 1870-1873. IEEE, 2023.
+* Al Mahmud, Jubayer, **Bandhan Chandra Das,** Jungpil Shin, Khan Md Hasib, Rifat Sadik, and Muhammad Firoz Mridha. "_3D gesture recognition and adaptation for human–robot interaction._" IEEE Access 10 (2022): 116485-116513.
+* Jani, Rafsun, Md Shariful Islam Shanto, **Badhan Chandra Das**, and Khan Md Hasib. "_Machine learning-based social media news popularity prediction_." In International Conference on Hybrid Intelligent Systems, pp. 714-725. Cham: Springer Nature Switzerland, 2022.
+* **Das, Badhan Chandra**, Md Musfique Anwar, Md Al-Amin Bhuiyan, Iqbal H. Sarker, Salem A. Alyami, and Mohammad Ali Moni. "_Attribute driven temporal active online community search._" IEEE Access 9 (2021): 93976-93989.
+* Mahbubur Rahman, Md, **Badhan Chandra Das**, Al Amin Biswas, and Md Musfique Anwar. "_Predicting Participants’ Performance in Programming Contests Using Deep Learning Techniques._" In International Conference on Hybrid Intelligent Systems, pp. 166-176. Cham: Springer Nature Switzerland, 2022.
+
 
 
 Teaching
