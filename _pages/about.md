@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Badhan Chandra Das, PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University. My research area is primarily focused on the privacy and security of AI, federated learning, computer vision, large language models, and their real-world applications. Before joining FIU, I served as a Lecturer in Computer Science at Bangladesh University of Business and Technology (BUBT), Bangladesh. I graduated from the Computer Science and Engineering department at Jahangirnagar University, Bangladesh, and completed MS in the same discipline from the same department. Apart from my academics and profession, I love reading books, traveling, and exploring innovative things.
+I'm Badhan Chandra Das, PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University. My research area is primarily focused on the privacy and security of AI, federated learning, computer vision, large language models, and their real-world applications. I am also a Graduate Research Assistant (GRA) at Sustainability, Optimization, and Learning for InterDependent Networks Laboratory (solid lab), FIU. Before joining FIU, I served as a Lecturer in Computer Science at Bangladesh University of Business and Technology (BUBT), Bangladesh. I graduated from the Computer Science and Engineering department at Jahangirnagar University, Bangladesh, and completed MS in the same discipline from the same department. Apart from my academics and profession, I love reading books, traveling, and exploring innovative things.
 
 Education
 ======
@@ -39,7 +39,7 @@ Research Interests
 Experience
 ======
 * **Graduate Research Assistant. [Jan. 2024 - Present]**\
-Security, Optimization, and Learning for InterDependent Networks Laboratory(solid lab), FIU.\
+Sustainability, Optimization, and Learning for InterDependent Networks Laboratory(solid lab), FIU.\
 Projects: Privacy-Aware AI and its applications, AI-based efficient threat detection (supported by DHS)
 
 * **Graduate Teaching Assistant. [Aug. 2022 - Dec. 2023]**\
