@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Badhan Chnadra Das"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Badhan Chnadra Das"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "badhan (2).jpg"
   name             : "Badhan Chnadra Das"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Computer Science"
+  bio              : "PhD Candidate and  in Computer Science"
   location         : "Miami, FL"
   employer         : "Floria International University"
   uri              : # URL
