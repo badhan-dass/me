@@ -31,7 +31,7 @@ Research Interests
 * Privacy and Security of AI
 * Federated Leaning
 * Computer vision
-* Large Langyage Models
+* Large Language Models
 * AI for Social Good
 
   
