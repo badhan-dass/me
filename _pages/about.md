@@ -89,6 +89,7 @@ Teaching
 
 Awards, Grants, and Scholarships
 ======
+* **UGS Excellence Award for Outstanding Paper or Manuscript - STEM** for the paper "Security and Privacy Challenges of Large Language Models: A Survey," ACM Computing Surveys [2025]
 * **Student Travel Grant:** NSF travel grant for International Conference on Bioinformatics and Biomedicine [BIBM-2023]
 * **Conference Travel Grant:** From Graduate and Professional Student Committee (GPSC) at FIU [2023]
 * **Student Travel Award:** From Bangladesh Sweden Trust Fund [2022-23]
