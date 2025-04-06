@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Badhan Chandra Das, PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University. My research is primarily focused on the privacy and security of AI, federated learning, computer vision, large language models, and their real-world applications. I am also a Graduate Research Assistant (GRA) at Sustainability, Optimization, and Learning for InterDependent Networks Laboratory (solid lab), FIU. Before joining FIU, I served as a lecturer in Computer Science department at Bangladesh University of Business and Technology (BUBT), Bangladesh. I graduated in Computer Science and Engineering from Jahangirnagar University, Bangladesh, and completed MS in the same discipline from the same department. Apart from my academics and profession, I love reading books, traveling, and exploring new things.
+I'm Badhan Chandra Das, PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University. My research is primarily focused on the privacy and security of AI, federated learning, computer vision, large language models, and their real-world applications. I am also a Graduate Research Assistant (GRA) at Sustainability, Optimization, and Learning for InterDependent Networks Laboratory (solid lab), FIU. Before joining FIU, I served as a lecturer in Computer Science department at Bangladesh University of Business and Technology (BUBT), Bangladesh. I graduated in Computer Science and Engineering from Jahangirnagar University, Bangladesh, and completed MS in the esame discipline from the same department. Apart from my academics and profession, I love reading books, traveling, and exploring new things.
 
 Education
 ======
@@ -89,7 +89,7 @@ Teaching
 
 Awards, Grants, and Scholarships
 ======
-* **UGS Excellence Award for Outstanding Paper or Manuscript - STEM** for the paper "Security and Privacy Challenges of Large Language Models: A Survey," ACM Computing Surveys [2025]
+* **UGS Excellence Award for Outstanding Paper or Manuscript, FIU** for the paper "Security and Privacy Challenges of Large Language Models: A Survey," ACM Computing Surveys [2025]
 * **Student Travel Grant:** NSF travel grant for International Conference on Bioinformatics and Biomedicine [BIBM-2023]
 * **Conference Travel Grant:** From Graduate and Professional Student Committee (GPSC) at FIU [2023]
 * **Student Travel Award:** From Bangladesh Sweden Trust Fund [2022-23]
