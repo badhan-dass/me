@@ -28,11 +28,11 @@ Jahangirnagar University, Savar, Dhaka, Bangladesh
 
 Research Interests
 ======
-* Privacy and Security of AI
+* AI Security and Trustworthy AI
 * Federated Leaning
 * Computer vision
 * Large Language Models
-* AI for Social Good
+* AI for Social Media Analytics
 
   
 
