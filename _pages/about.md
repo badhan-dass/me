@@ -76,10 +76,11 @@ Teaching
   * Operating System (Spring 2023, Fall 2023)
   * Mentored K-12 teachers on the Research Experience for Teachers (RET) program (Summer 2023)
   * Introduction to Artificial Intelligence (Spring 2025)
-* **Guest Lectures, FIU**
-  *  Introduction to Artificial Intelligence (Fall-2023)
-  *  Advanced Topics in Machine Learning (Fall-2024)
-  *  Introduction to Artificial Intelligence (Spring-2025)
+* **Guest Lectures**
+  *  Foundation of Machine Learning, Break Through Tech (Summer-2025)
+  *  Introduction to Artificial Intelligence, FIU (Spring-2025)
+  *  Advanced Topics in Machine Learning, FIU (Fall-2024)
+  *  Introduction to Artificial Intelligence, FIU (Fall-2023)
 * **Bangladesh University of Business and Technology (BUBT), Bangladesh**
   *  Data Mining Theory and Application (Spring-2021, Summer-2021, Spring-2022, Summer-2022)
   *  Pattern Recognition (Summer-2022)
