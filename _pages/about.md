@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm Badhan Chandra Das, PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University, co-advised by Prof. M. Hadi Amini, Prof. Yanzhao Wu. My research is primarily focused on the privacy and security of AI, federated learning, computer vision, large language models, vision language models, and their real-world applications. I am also a Graduate Research Assistant (GRA) at the Security, Optimization, and Learning for InterDependent Networks Laboratory (solid lab), FIU and served as Graduate Teaching Assistant (GTA) at KFSCIS, FIU. Before joining FIU, I served as a lecturer in Computer Science department at Bangladesh University of Business and Technology (BUBT), Bangladesh. I graduated in Computer Science and Engineering from Jahangirnagar University, Bangladesh, and completed my MS in the same discipline from the same department. Apart from my academics and profession, I love reading books, traveling, and exploring new things.
+I'm Badhan Chandra Das, PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University, co-advised by **Prof. M. Hadi Amini and Prof. Yanzhao Wu**. My research is primarily focused on the privacy and security of AI, federated learning, computer vision, large language models, vision language models, and their real-world applications. I am also a Graduate Research Assistant (GRA) at the Security, Optimization, and Learning for InterDependent Networks Laboratory (solid lab), FIU and served as Graduate Teaching Assistant (GTA) at KFSCIS, FIU. Before joining FIU, I served as a lecturer in Computer Science department at Bangladesh University of Business and Technology (BUBT), Bangladesh. I graduated in Computer Science and Engineering from Jahangirnagar University, Bangladesh, and completed my MS in the same discipline from the same department. Apart from my academics and profession, I love reading books, traveling, and exploring new things.
 
 Education
 ======
 
 ♦ **Doctor of Philosophy. [Aug. 2022 - Present]**\
  Major: Computer Science\
- Knight Foundation School of Computing and Information Science (KFSCIS), Florida International University\
+ Knight Foundation School of Computing and Information Science (KFSCIS), Florida International University
 
 ♦ **Master of Science. [2018-19]**\
 Major: Computer Science and Engineering\
@@ -67,7 +67,7 @@ Selected Publications
 * Mahbubur Rahman, Md, **Badhan Chandra Das**, Al Amin Biswas, and Md Musfique Anwar. "_Predicting Participants' Performance in Programming Contests Using Deep Learning Techniques._" In International Conference on Hybrid Intelligent Systems, pp. 166-176. Cham: Springer Nature Switzerland, 2022.
 * **Das, Badhan Chandra**, and Md Musfique Anwar. "_Attribute driven temporal local active online community detection_." In 2020 IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM), Acceptance Rate: 19.2%.
 
-* **Also under review:** 
+* **Under review:** 
   * "_Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models_." arXiv:2601.05339 (2026);
   * "_System Prompt Extraction Attacks and Defenses in Large Language Models_," arXiv:2505.23817 (2025).
   * "_In-depth Analysis of Privacy Threats in Federated Learning for Medical Data_." arXiv preprint arXiv:2409.18907 (2024).
@@ -99,8 +99,8 @@ Teaching
 
  Mentorship
 ======
-* **UGS Graduate Peer Mentor, FIU [2026]** — mentored first-year Computer Science PhD students through FIU's University Graduate School peer mentoring program
-* **Graduate Research Mentorship, FIU** — mentored PhD and MS students in the KFSCIS, FIU on LLM/VLM security and video-based threat detection research, resulting in co-authored publications (e.g., ICMLA-2025)
+* **Graduate Peer Mentor, FIU** — mentored first-year Computer Science PhD students through FIU's University Graduate School peer mentoring program (2026)
+* **Graduate Research Mentorship, FIU** — mentored PhD and MS students in the KFSCIS, FIU on LLM/VLM security and video-based threat detection research, resulting in co-authored publications (CMLA-2025)
 * **Undergraduate Research Mentorship, BUBT** — guided undergraduate students in data mining research applied to healthcare and social network analysis, resulting in peer-reviewed publications (MIDAS-2021, HIS-2022)
 
 Awards, Grants, and Scholarships
