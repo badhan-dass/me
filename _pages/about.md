@@ -26,10 +26,11 @@ Jahangirnagar University, Savar, Dhaka, Bangladesh
 
 Research Interests
 ======
-* AI Security and Trustworthy AI
-* Federated Leaning
-* Computer vision
-* Large Language Models
+* AI Security
+* Trustworthy AI
+* Agentic AI Security
+* Federated Learning
+* Computer Vision
 * AI for Social Media Analytics
 
   
@@ -43,7 +44,7 @@ Projects: Privacy-Aware AI and its applications, AI-based efficient threat detec
 * **Graduate Teaching Assistant. [Aug. 2022 - Dec. 2023, Jan. 2025 - Apr. 2025, Jan. 2026 - Apr. 2026]**\
 Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University. 
 
-* **Full-time Lecturer. [Dec. 2020- July 2022]**\
+* **Full-time Lecturer. [Dec. 2020 - July 2022]**\
 Dept. of Computer Science and Engineering\
 Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
 
@@ -51,13 +52,13 @@ Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
 Dept. of Computer Science and Engineering\
 University of Development Alternative (UODA), Dhaka, Bangladesh
 
-* **Research Assistant (JU-DM, Jahangirnagar University). [Aug. 2018- Nov. 2020]**\
+* **Research Assistant (JU-DM, Jahangirnagar University). [Aug. 2018 - Nov. 2020]**\
 Projects: Topic-oriented active online local community search (supported by UGC, Bangladesh), Election prediction from social media data
 
 Selected Publications
 ======
 
-* **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_In-depth Analysis of Privacy Threats in Federated Learning for Medical Data_." IEEE Journal of Biomedical and Health Informatics (J-BHI) [Accpeted].
+* **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_In-depth Analysis of Privacy Threats in Federated Learning for Medical Data_." IEEE Journal of Biomedical and Health Informatics (J-BHI)
 * **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_An accurate and efficient two-stage framework for gun detection in videos_." IEEE International Conference on Cognitive Machine Intelligence (CogMI-2026).
 * **Das, Badhan Chandra**, Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, and Yanzhao Wu. "_Jailbreaking large vision language models in intelligent transportation systems_." IEEE International Conference on Machine Learning and Applications (ICMLA), 2025.
 * **Das, Badhan Chandra**, M. Hadi Amini, and Yanzhao Wu. "_Security and privacy challenges of large language models: A survey_." ACM Computing Surveys 57, no. 6 (2025): 1-39.
@@ -100,7 +101,7 @@ Teaching
  Mentorship
 ======
 * **Graduate Peer Mentor, FIU** — mentored first-year Computer Science PhD students through FIU's University Graduate School peer mentoring program (2026)
-* **Graduate Research Mentorship, FIU** — mentored PhD and MS students in the KFSCIS, FIU on LLM/VLM security and video-based threat detection research, resulting in co-authored publications (CMLA-2025)
+* **Graduate Research Mentorship, FIU** — mentored PhD and MS students in the KFSCIS, FIU on LLM/VLM security and video-based threat detection research, resulting in co-authored publications (ICMLA-2025)
 * **Undergraduate Research Mentorship, BUBT** — guided undergraduate students in data mining research applied to healthcare and social network analysis, resulting in peer-reviewed publications (MIDAS-2021, HIS-2022)
 
 Awards, Grants, and Scholarships
@@ -116,8 +117,8 @@ Awards, Grants, and Scholarships
 
 Professional and Organizational Activities
 ======
-**Conference Reviewer:** NeurIPS (2026), ICMLA(2026), WWW (2025), IJCAI (2025), ICLR (2024, 2025), ICDCS (2024), ICEDGE, IEEE CSDE (2021, 2022, 2023)
-* **Journal Reviewer:** ACM Computing Surveys, ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), IEEE Transection of Big Data (TBD), IEEE Transactions on Information Forensics and Security (TIFS), Applied Artificial Intelligence (AAI), Taylor and Francis, Springer Journal of Supercomputing, IEEE Access
+**Conference Reviewer:** NeurIPS (2026), ICMLA(2026), WWW (2025), IJCAI (2025), ICLR (2024, 2025), ICDCS (2024), ICEDGE (2025), IEEE CSDE (2021, 2022, 2023)
+**Journal Reviewer:** ACM Computing Surveys, ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), IEEE Transactions on Big Data (TBD), IEEE Transactions on Information Forensics and Security (TIFS), Applied Artificial Intelligence (AAI), Taylor and Francis, Springer Journal of Supercomputing, IEEE Access
 * Worked at Jahangirnagar University computer club (JU computer club) as General Secretary from August 2017 to August 2019
 * Organized and hosted several events and workshops introducing CS freshers to different research and industry technologies under the JU computer club
 * **Memberships:** ACM Student Member, AAAI Student Member
