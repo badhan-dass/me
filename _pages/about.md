@@ -118,6 +118,7 @@ Awards, Grants, and Scholarships
 Professional and Organizational Activities
 ======
 **Conference Reviewer:** NeurIPS (2026), ICMLA(2026), WWW (2025), IJCAI (2025), ICLR (2024, 2025), ICDCS (2024), ICEDGE (2025), IEEE CSDE (2021, 2022, 2023)
+
 **Journal Reviewer:** ACM Computing Surveys, ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), IEEE Transactions on Big Data (TBD), IEEE Transactions on Information Forensics and Security (TIFS), Applied Artificial Intelligence (AAI), Taylor and Francis, Springer Journal of Supercomputing, IEEE Access
 * Worked at Jahangirnagar University computer club (JU computer club) as General Secretary from August 2017 to August 2019
 * Organized and hosted several events and workshops introducing CS freshers to different research and industry technologies under the JU computer club
