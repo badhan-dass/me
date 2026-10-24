@@ -58,7 +58,7 @@ Projects: Topic-oriented active online local community search (supported by UGC,
 Selected Publications
 ======
 
-* **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_System Prompt Extraction Attacks and Defenses in Large Language Models_," IEEE International Conference on Big Data (BigData-2026).
+* **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_System Prompt Extraction Attacks and Defenses in Large Language Models_," IEEE International Conference on Big Data (BigData-2026). Acceptance Rate: 19.4%.
 * **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_In-depth Analysis of Privacy Threats in Federated Learning for Medical Data_." IEEE Journal of Biomedical and Health Informatics (J-BHI)
 * **Das, Badhan Chandra**, Yanzhao Wu, and M. Hadi Amini. "_An accurate and efficient two-stage framework for gun detection in videos_." IEEE International Conference on Cognitive Machine Intelligence (CogMI-2026).
 * **Das, Badhan Chandra**, Tasnim Jawad, Md Jueal Mia, M. Hadi Amini, and Yanzhao Wu. "_Jailbreaking large vision language models in intelligent transportation systems_." IEEE International Conference on Machine Learning and Applications (ICMLA), 2025.
