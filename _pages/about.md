@@ -107,17 +107,20 @@ Teaching
 
 Awards, Grants, and Scholarships
 ======
+* **Dissertation Fellowship, University Graduate School, FIU. [2026-27]**
+* **Student Government Association (SGA) Graduate Scholarship, FIU [2026-27]**
 * **UGS Excellence Award for Outstanding Paper or Manuscript, FIU** for the paper "Security and Privacy Challenges of Large Language Models: A Survey," ACM Computing Surveys [2025]
 * **Best Poster Award [3rd place], Graduate Student Appreciation Week, FIU** [2025]
-* **Student Travel Grant:** NSF travel grant for International Conference on Bioinformatics and Biomedicine [BIBM-2023]
-* **Conference Travel Grant:** From Graduate and Professional Student Committee (GPSC) at FIU [2023, 2025]
+* **Student Travel Grant:** IEEE CogMI-2026, IEEE BIBM-2023
+* **Conference Travel Grant:** From Graduate and Professional Student Committee (GPSC) at FIU [2026, 2025, 2023]
 * **Student Travel Award:** From Bangladesh Sweden Trust Fund [2022-23]
 * **Developing Country Researcher Award:** 7th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), Gold Coast, Australia [2020]
-* **Special Research Grant** from University Grants Commissions of Bangladesh (UGC) [2019-20]
-* Yearly Scholarship on Academic Result in Undergrad [2014, 2015, 2016, 2017]
+* **Special Research Grant** from the University Grants Commission of Bangladesh (UGC) [2019-20]
+* Yearly Scholarship on Academic Results in Undergrad [2014, 2015, 2016, 2017]
 
 Professional and Organizational Activities
 ======
+**Session Chair:** IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS 2026), San Jose, CA, USA.
 **Conference Reviewer:** NeurIPS (2026), ICMLA(2026), WWW (2025), IJCAI (2025), ICLR (2024, 2025), ICDCS (2024), ICEDGE (2025), IEEE CSDE (2021, 2022, 2023)
 
 **Journal Reviewer:** ACM Computing Surveys, ACM Transactions on Privacy and Security (TOPS), IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), IEEE Transactions on Big Data (TBD), IEEE Transactions on Information Forensics and Security (TIFS), Applied Artificial Intelligence (AAI), Taylor and Francis, Springer Journal of Supercomputing, IEEE Access
